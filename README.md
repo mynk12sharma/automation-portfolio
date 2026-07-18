@@ -44,7 +44,7 @@ MIT — see [LICENSE](./LICENSE). Use, fork, and adapt freely. Attribution appre
 
 ## 📬 Contact
 
-**Aditya Vaishnave**
+**Mayank Sharma**
 📍 Kota, Rajasthan
-🔗 [LinkedIn](https://www.linkedin.com/in/adityavaishnave-productops/)
-✉️ adityavaishnave@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mayank-sharma-3226471b9/)
+✉️ mayank.sharma@gmail.com
