@@ -1,4 +1,4 @@
-# 🛠 Automation Portfolio — Aditya Vaishnave
+# 🛠 Automation Portfolio — Mayank Sharma
 
 A collection of **production Google Apps Script and Python automation tools** I built during my work in Assessment Operations at ALLEN Online (and earlier roles). These tools handle everything from real-time dashboards and bulk PDF generation to email automation and data scraping, serving **60,000+ students per month** across multiple competitive-exam programs (JEE Advanced, JEE Main, NEET, PNCF).
 
