@@ -46,5 +46,4 @@ MIT — see [LICENSE](./LICENSE). Use, fork, and adapt freely. Attribution appre
 
 **Mayank Sharma**
 📍 Kota, Rajasthan
-🔗 [LinkedIn](https://www.linkedin.com/in/mayank-sharma-3226471b9/)
-✉️ mayank.sharma@gmail.com
+✉️ mayank12sharma@yahoo.com
